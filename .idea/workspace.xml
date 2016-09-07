@@ -24,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Opdracht1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Opdracht1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Opdracht1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -38,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Opdracht2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -618,7 +618,7 @@
       <option name="presentableId" value="Default" />
       <updated>1473160715691</updated>
       <workItem from="1473160717363" duration="2631000" />
-      <workItem from="1473235619048" duration="2578000" />
+      <workItem from="1473235619048" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="nick">
       <created>1473161117188</created>
@@ -648,11 +648,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473238211640</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="geen verandering">
+      <created>1473238253658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1473238253658</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5209000" />
+    <option name="totallyTimeSpent" value="5261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -698,7 +705,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nick" />
-    <option name="LAST_COMMIT_MESSAGE" value="nick" />
+    <MESSAGE value="geen verandering" />
+    <option name="LAST_COMMIT_MESSAGE" value="geen verandering" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -749,18 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Opdracht2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Opdracht1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -769,6 +765,18 @@
             <element signature="imports" expanded="true" />
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Opdracht2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
           </folding>
         </state>
       </provider>
