@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ebac43a-4102-430d-bcdf-4e064f311b80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hoofdstuk4/Opdracht4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hoofdstuk4/Opdracht5.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="inleiding-java.iws" />
@@ -37,11 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opdracht5.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Opdracht5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Opdracht5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Opdracht7.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Opdracht7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/Hoofdstuk4/Opdracht6.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk4/Opdracht4.java" />
         <option value="$PROJECT_DIR$/src/Hoofdstuk4/Opdracht5.java" />
+        <option value="$PROJECT_DIR$/src/Hoofdstuk4/Opdracht7.java" />
       </list>
     </option>
   </component>
@@ -683,7 +696,7 @@
       <workItem from="1473160717363" duration="2631000" />
       <workItem from="1473235619048" duration="4827000" />
       <workItem from="1473322567756" duration="9161000" />
-      <workItem from="1473409225159" duration="72000" />
+      <workItem from="1473409225159" duration="535000" />
     </task>
     <task id="LOCAL-00001" summary="nick">
       <created>1473161117188</created>
@@ -776,11 +789,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473335264196</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="geen verandering">
+      <created>1473409345513</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1473409345513</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16691000" />
+    <option name="totallyTimeSpent" value="17154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1002,6 +1022,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Opdracht7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
