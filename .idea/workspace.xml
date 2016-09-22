@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ebac43a-4102-430d-bcdf-4e064f311b80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hoofdstuk5/Opdracht1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demos/variabelen.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="inleiding-java.iws" />
@@ -25,46 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="variabelen.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/demos/variabelen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Opdracht1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Opdracht1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Opdracht4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Opdracht4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Opdracht2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Opdracht2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -200,42 +168,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hoofdstuk4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inleiding-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inleiding-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inleiding-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inleiding-java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -247,16 +179,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Applet.Opdracht1">
-    <configuration default="false" name="Opdracht6" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="Hoofdstuk4.Opdracht6" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="inleiding-java" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Applet.Opdracht2">
     <configuration default="false" name="Opdracht5" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="Hoofdstuk4.Opdracht5" />
@@ -287,6 +210,15 @@
     <configuration default="false" name="Opdracht1" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="Hoofdstuk5.Opdracht1" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module name="inleiding-java" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Opdracht2" type="Applet" factoryName="Applet" temporary="true">
+      <option name="HTML_USED" value="false" />
+      <option name="MAIN_CLASS_NAME" value="Hoofdstuk5.Opdracht2" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -708,19 +640,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht6" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht5" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht7" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.variabelen" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht1" />
+      <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht5" />
+      <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht7" />
+      <item index="2" class="java.lang.String" itemvalue="Applet.variabelen" />
+      <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht1" />
+      <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht1" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.variabelen" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.Opdracht5" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht7" />
-        <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht6" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.Opdracht2" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.Opdracht1" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.variabelen" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.Opdracht5" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.Opdracht7" />
       </list>
     </recent_temporary>
   </component>
@@ -744,7 +676,7 @@
       <workItem from="1473849290925" duration="2695000" />
       <workItem from="1473921798580" duration="751000" />
       <workItem from="1474357962685" duration="1228000" />
-      <workItem from="1474526576937" duration="3847000" />
+      <workItem from="1474526576937" duration="8696000" />
     </task>
     <task id="LOCAL-00001" summary="nick">
       <created>1473161117188</created>
@@ -879,15 +811,22 @@
       <option name="project" value="LOCAL" />
       <updated>1474530649451</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="H5.1">
+      <created>1474530919388</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1474530919388</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29687000" />
+    <option name="totallyTimeSpent" value="34536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="735" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -901,7 +840,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45227605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45227605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1168,32 +1107,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Variabelen.java" />
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Opdracht1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Opdracht4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Opdracht2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Praktijkopdracht.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1204,8 +1117,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demos/variabelen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk4/Opdracht4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Opdracht1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hoofdstuk5/Opdracht2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
